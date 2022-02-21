@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cespi
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning POSTMAN (didn't do well, can't delete or edit specific entries)
-- 💞️ I’m looking to collaborate on Buidling a GUI for Machine learning, Signal Processing and Music Applications
+- 🌱 I’m currently learning Flask
+- 💞️ I’m looking to collaborate on Buidling a GUI for Machine Learning, a GUI for Deep Learning, Signal Processing Software and Music Applications using Sequence Models
 - 📫 How to reach me ...
 
 <!---
