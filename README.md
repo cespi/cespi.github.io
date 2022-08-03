@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Buidling a GUI for Machine Learning, a GUI for Deep Learning, Signal Processing Software, and Music Applications using Sequence Models
 - 📫 How to reach me: onlinetuthor@gmail.com
 
-- Here are links to my main repositories:
-* [MIT Xpro Activity 9.1/9.2] (https://cespi.github.io/PCDE-Activity-9.1/)
-* [Machine Learning GUI] (https://cespi.github.io/MachineLearningGUI/)
+Here are links to my main repositories:
+- [MIT Xpro Activity 9.1/9.2] (https://cespi.github.io/PCDE-Activity-9.1/)
+- [Machine Learning GUI] (https://cespi.github.io/MachineLearningGUI/)
 
 <!---
 cespi/cespi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
