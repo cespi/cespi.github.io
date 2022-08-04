@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Carlos Espinoza, @cespi
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on Buidling a GUI for Machine Learning, a GUI for Deep Learning, Signal Processing Software, and Music Applications using Sequence Models
+- I’m Carlos Espinoza, @cespi
+- I’m interested in Machine Learning
+- I’m currently learning Data Engineering
+- I’m looking to collaborate on Buidling a GUI for Machine Learning, a GUI for Deep Learning, Signal Processing Software, and Music Applications using Sequence Models
 - 📫 How to reach me: onlinetuthor@gmail.com
 
 Here are links to my main repositories:
